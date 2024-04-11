@@ -1,1 +1,1 @@
-Potato_diseases_classification
+Potato plant classification
