@@ -12,6 +12,8 @@ test_all
 ngrok.exe
 1.h5
 app.py
-model_try_2.ipynb
+model_try_1.ipynb
+pipline.PNG
+
 
 
